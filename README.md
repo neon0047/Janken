@@ -1,1 +1,1 @@
-# Janken-
+# Janken-Gemu
